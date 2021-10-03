@@ -26,6 +26,22 @@ The equity indices that have continued to rise since the report was published in
 This plot contains only one month of new data since the publishing of the report. Both total unemployment rate and long-term unemployment rate in Canada have increased from December 2020 to January 2021, continuing the increasing trend since the peak in 2020. The persistence observed in high levels of long-term unemployment rate may be exacerbated by skill erosion from prolonged periods without work, and “their attachment to the labor force may decrease” (Governing Council of the Bank of Canada, 2021, pg. 14). Recovery may also be more difficult as the pandemic has hit harder than the recession in 2008, as seen in the height of the peak in total unemployment in 2020 (which is at least two-fold that of the peak in 2008).
 
 
+## Change in Employment by Sector
+
+![5](https://github.com/jiayi-ong/Visualizing-the-Canadian-Economy/blob/main/Images/10a.Change%20in%20Employment.png)
+
+This plot in the previous policy report compare changes in unemployment over a period of a quarter, while Chart 10 above shows changes over only 2 months. Jobs are still being lost in the first two industries (by descending height arrangement in the chart), a trend which has not reversed since the last policy report. However, the magnitude of job loss is now much lower (e.g. -10,000 vs. -140,000 people in the last report, for the first industry). Notable reverses in trends include the Wholesale and retail trade industry, which had enjoyed about 80,000 employments in the previous report’s period but had now suffered a job loss of 45,000. The other services industry has also employed about 20,000 people, compared to a loss of nearly 50,000 jobs in the report. Industries such as Construction, Education, and Financial Services have continued to increase the number of people employed.
+
+
+## CPI
+
+![6](https://github.com/jiayi-ong/Visualizing-the-Canadian-Economy/blob/main/Images/11.CPI%20Inflation.png)
+
+Chart 11 above shows that inflation is heading towards to target of 2.0%, a sign of increasing aggregate demand, but remains well below the target. The range of core inflation measures have also widened.
+
+
 ## References
 
 Governing Council of the Bank of Canada (2021, January 20). Monetary Policy Report: January 2021. Retrieved from https://www.bankofcanada.ca/2021/01/mpr-2021-01-20/
+
+For data sources, view "Data Sources.pdf".
