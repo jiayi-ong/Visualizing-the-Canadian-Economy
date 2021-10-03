@@ -1,4 +1,4 @@
 # Visualizing-the-Canadian-Economy
 Visualizing the Canadian Economy during the COVID-19 Pandemic
 
-![Images](Images/1.COVID-Advanced Economies.png)
+![Images](https://github.com/jiayi-ong/Visualizing-the-Canadian-Economy/blob/main/Images/1.COVID-Advanced%20Economies.png)
