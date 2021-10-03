@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Jia Yi ONG (1003856614)"
+title: "Plots"
+author: "Jia Yi ONG"
 date: "3/30/2021"
 output: pdf_document
 ---
